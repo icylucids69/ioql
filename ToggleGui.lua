@@ -1,5 +1,5 @@
 		local s = Instance.new("Sound",game.Workspace)
-	s.Volume = 3
+	s.Volume = 1
 	s.Looped = false
 	s.SoundId = "rbxassetid://8272945108"
 	s:Play()
